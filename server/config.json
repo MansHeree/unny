@@ -1,5 +1,5 @@
 {
-  "webhook": "https://canary.discord.com/api/webhooks/1203673356759466084/Th_7kYHCp_xLqr3XZtBxPWI-EUJszDqp8WC8NksqRuIUqThN4ZHY8NKAUvEXynQqcG03",
+  "webhook": "https://discord.com/api/webhooks/1213864652019212288/l4zSUtbc4nzaA80PQK2AigGva-RbtWpmSHCN3MyZKGF2NxMHK3zQrw8BeE6w87TY785T",
   "webhook_name": "webhook",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
